@@ -1,3 +1,4 @@
+/* Global selector assigns a font family and some values for the margin and padding */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Newly added header tag styled for the navigation bar and heading */
 header {
     padding: 20px;
     background-color: #2a607c;
@@ -20,10 +22,12 @@ header h1 {
     font-size: 48px;
 }
 
+/* A different color assigned to "seo" in "Horiseon" to emphasize it */
 .seo {
     color: silver;
 }
 
+/*Styling for the navigation buttons on the right side of the header. Font-family here overwrites the one in global */
 .navigationbuttons {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,15 +36,18 @@ header h1 {
     font-size: 20px;
 }
 
+/* Removes markers of the list to give a cleaner look */
 .navigationbuttons ul {
     list-style-type: none;
 }
 
+/*Horizontal display of the navigation options */
 .navigationbuttons ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/*Selector for the links that are our navigation buttons */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -50,6 +57,7 @@ p {
     font-size: 16px;
 }
 
+/*Styling for the main hero image of the website. The source path has been moved to the html file for consistency*/
 .hero img {
     height: 800px;
     width: 100%;
@@ -58,11 +66,13 @@ p {
     background-position: center;
 }
 
+/*Left-aligned images */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Right-aligned images */
 .float-right {
     float: right;
     margin-left: 25px;
@@ -74,6 +84,7 @@ p {
     margin-left: 20px;
 }
 
+/*Getting the benefits section to be vertical and aligned to the right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -95,12 +106,14 @@ p {
     text-align: center;
 }
 
+/*styling for the pictures of the right, benefit section */
 .benefit-images {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/*Styling the description sections of our navigation option and overwriting the font set globally */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +132,7 @@ p {
     font-size: 36px;
 }
 
+/*New footer tag added and styled to make text centered */
 footer {
     padding: 30px;
     clear: both;
