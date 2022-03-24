@@ -10,12 +10,14 @@ It is good practice to write code with a logical structure containing semantic e
 
 I started off with the following **HTML** and **CSS** files for a one-page website:
 
-- [HTML]("index.html")
-- [CSS]("")
+- [HTML](https://github.com/MoeCancode/Code-Refactoring/blob/main/Original_code/index.html)
+- [CSS](https://github.com/MoeCancode/Code-Refactoring/blob/main/Original_code/style.css)
 
-The goal was to refactor the code to make it more accessible and easy-to-read without changing the look of the webpage we have. 
+The goal was to refactor the code to make it more accessible and easy-to-read without changing the look of the webpage we have.
 
-Several changes were made and I will explain what changes were made in each noteworthy commit to this repository.
+<br>
+
+### **Several changes were made to the code files and I will explain what was done in each noteworthy commit to this repository.**
 
 <br>
 
@@ -70,7 +72,39 @@ All major commits have been mentioned above. There were a few others but they we
 The final code files can be found here:
 
 - [HTML](https://github.com/MoeCancode/Code-Refactoring/blob/main/index.html)
-- [CSS]("")
+- [CSS](https://github.com/MoeCancode/Code-Refactoring/blob/main/assets/css/style.css)
+
+<br>
+
+# Contributors
+
+**Mohammad Abuzar Razvi**
+
+<br>
+
+# License
+
+MIT License
+
+Copyright (c) [2022] [Mohammad Abuzar Razvi]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
