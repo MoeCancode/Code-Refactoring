@@ -6,14 +6,13 @@ It is good practice to write code with a logical structure containing semantic e
 
 <br>
 
-# Original code files
+# Layout
 
-I started off with the following **HTML** and **CSS** files for a one-page website:
+Here is the layout of the webpage:
 
-- [HTML](https://github.com/MoeCancode/Code-Refactoring/blob/main/Original_code/index.html)
-- [CSS](https://github.com/MoeCancode/Code-Refactoring/blob/main/Original_code/style.css)
+<br>
 
-The goal was to refactor the code to make it more accessible and easy-to-read without changing the look of the webpage we have.
+<img src= "./assets/images/layout.png">
 
 <br>
 
